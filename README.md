@@ -10,4 +10,4 @@
 - creates a working.txt file with the working tokens
 - creates a unverified.txt file with the unverified tokens
 
-![screenshot](http://pays.host/uploads/a4302452-f2f6-4092-a132-fc68db18d534/iOWr80nx.png)
+![screenshot](http://pays.host/uploads/a4302452-f2f6-4092-a132-fc68db18d534/gF1QDA8h.png)
